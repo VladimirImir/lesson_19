@@ -8,6 +8,9 @@ import java.util.TreeSet;
 public class SetExample {
 
     public static void main(String[] args) {
+
+        /** 19.14 Старые коллекции - просто ознакомились с ними.*/
+
         /** HashSet */
         /** LinkedHashSet<>() - сохраняет порядок. */
         /** TreeSet<>() - сохраняет в алфавитном порядке. */
